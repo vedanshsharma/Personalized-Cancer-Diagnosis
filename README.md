@@ -1,2 +1,2 @@
-# Personalized-Cancer-Diagnosis
+# Personalized Cancer Diagnosis
 ![](/images/front_page.png)
